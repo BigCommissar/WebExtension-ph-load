@@ -3,7 +3,7 @@
     "name": "PH Download!",
     "version": "1.0",
     "description": "A simple download video from Pornhub",
-    "homepage_url": "https://github.com/",
+    "homepage_url": "https://github.com/vanbujhm/WebExtension-ph-load",
     "icons": {
         "48": "icons/ph-load.png",
         "96": "icons/ph-load@2x.png"
